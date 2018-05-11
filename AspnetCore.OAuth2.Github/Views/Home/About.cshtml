@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<div>
+    <div class="row">
+        <div class="col-sm-3">
+            User GitHub Login :
+        </div>
+        <div class="col-sm-9">
+            @ViewData["github:login"]
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+           Total repos :
+        </div>
+        <div class="col-sm-9">
+            @ViewData["github:repo:count"]
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+            Repo Url :
+        </div>
+        <div class="col-sm-9">
+          <a href="@ViewData["github:repos_url"]">Go to his repo</a>  
+        </div>
+    </div>
+
+
+
+
+</div>

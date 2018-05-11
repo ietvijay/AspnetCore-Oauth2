@@ -1,0 +1,11 @@
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\bin\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.deps.json
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\bin\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.runtimeconfig.json
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\bin\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.runtimeconfig.dev.json
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\bin\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.dll
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\bin\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.pdb
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.csprojResolveAssemblyReference.cache
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.csproj.CoreCompileInputs.cache
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.AssemblyInfoInputs.cache
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.AssemblyInfo.cs
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.dll
+C:\Users\I96972\Source\Repos\WebApplication3\AspnetCore.OAuth2.Github\obj\Debug\netcoreapp2.0\AspnetCore.OAuth2.Github.pdb
