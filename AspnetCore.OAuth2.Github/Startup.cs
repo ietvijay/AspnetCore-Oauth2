@@ -49,8 +49,9 @@ namespace AspnetCore.OAuth2.Github
                 opt.ClaimActions.MapJsonKey(ClaimTypes.Email, "email");
                 //Claim action 4
                 opt.ClaimActions.MapJsonKey("urn:github:public_repos:count", "public_repos");
-                opt.ClaimActions.MapJsonKey("urn:github:repos_url", "repos_url");
                 //Claim action 5
+                opt.ClaimActions.MapJsonKey("urn:github:repos_url", "repos_url");
+                
                 opt.Events = new Microsoft.AspNetCore.Authentication.OAuth.OAuthEvents
                 {
                     OnCreatingTicket = async context => {
@@ -69,7 +70,7 @@ namespace AspnetCore.OAuth2.Github
 
                             //This will populate claims on ClaimsIdentity as per claim action 1 to 5 above.
                             context.RunClaimActions(userJObj);
-                            context.RunClaimActions();
+                           
                         }
                         
                     }
